@@ -27,6 +27,7 @@ body{
      flex-direction:row;
      position:relative;
      justify-content: space-evenly;
+     Padding:2rem;
  }
  /*breaking each box at the width of 800px and small*/
  @media screen and (max-width: 800px) {
