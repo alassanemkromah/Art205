@@ -57,6 +57,7 @@ body{
  }
  /* button in the services box styles */
  .btn{
+     Position: relative;
      background-color:wheat;
      color:black;
      border:5px outset wheat;
