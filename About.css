@@ -89,6 +89,9 @@ body{
         flex-direction:column;
     }
 }
+h3{
+  Color: wheat;
+}
  .box{
      position:relative;
      align-items: center;
